@@ -60,9 +60,10 @@ export const Container1 = styled.div`
   background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0, 0, 0, 0.1)),url("/config/images/back.jpg");
   background-size: cover;
 
-  @media (max-width:1286px) {
-    width:'100px';
-  background-size: auto;
+  @media (max-width:1386px) {
+    background-repeat: no-repeat;
+    background-size: 600px 800px;
+ 
     background-position:center;
   }
 `;
