@@ -61,6 +61,7 @@ export const Container1 = styled.div`
   background-size: cover;
 
   @media (max-width:1286px) {
+    width:'100px';
   background-size: auto;
     background-position:center;
   }
