@@ -60,7 +60,12 @@ export const Container1 = styled.div`
   background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0, 0, 0, 0.1)),url("/config/images/back.jpg");
   background-size: cover;
 
+  @media (max-width:1286px) {
+  background-size: auto;
+    background-position:center;
+  }
 `;
+
 
 
 export const TextTitle = styled.p`
