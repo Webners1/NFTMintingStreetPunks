@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x099a410FebBBed028F763eD3Bdc7743425590d89",
-  "SCAN_LINK": "https://bscscan.com/address/0x099a410FebBBed028F763eD3Bdc7743425590d89",
+  "CONTRACT_ADDRESS": "0x0692E47a4eD162D289159759B6213ac574b02DDE",
+  "SCAN_LINK": "https://bscscan.com/address/0x0692E47a4eD162D289159759B6213ac574b02DDE",
   "NETWORK": {
     "NAME": "BSC",
     "SYMBOL": "BNB",
-    "ID": 56
+    "ID": 97
   },
   "NFT_NAME": "StreetPunks",
   "SYMBOL": "Street Punk",
